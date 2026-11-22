@@ -287,9 +287,9 @@ Estas funcionalidades poderão ser adicionadas em futuras atualizações.
 
 Projeto desenvolvido pelos elementos do grupo:
 
-- [Nome do elemento 1]
-- [Nome do elemento 2]
-- [Nome do elemento 3]
+- Melissa Cotrim
+- Gonçalo Loução
+- Martim
 
 ## 14. Repositório
 
