@@ -1,0 +1,16 @@
+
+# Dados locais da aplicação
+planobase_dados.json
+planobase_dados.json.tmp
+
+# Ficheiros temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Configurações locais
+.env
+.vscode/
